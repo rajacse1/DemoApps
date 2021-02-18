@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\RAJA\\source\\repos\\WebApplication2\\WebApplication2\\WebApplication2.csproj": {}
+    "C:\\Users\\RAJA\\source\\repos\\DemoApps\\WebApplication2\\WebApplication2.csproj": {}
   },
   "projects": {
-    "C:\\Users\\RAJA\\source\\repos\\WebApplication2\\WebApplication2\\WebApplication2.csproj": {
+    "C:\\Users\\RAJA\\source\\repos\\DemoApps\\WebApplication2\\WebApplication2.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\RAJA\\source\\repos\\WebApplication2\\WebApplication2\\WebApplication2.csproj",
+        "projectUniqueName": "C:\\Users\\RAJA\\source\\repos\\DemoApps\\WebApplication2\\WebApplication2.csproj",
         "projectName": "WebApplication2",
-        "projectPath": "C:\\Users\\RAJA\\source\\repos\\WebApplication2\\WebApplication2\\WebApplication2.csproj",
+        "projectPath": "C:\\Users\\RAJA\\source\\repos\\DemoApps\\WebApplication2\\WebApplication2.csproj",
         "packagesPath": "C:\\Users\\RAJA\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\RAJA\\source\\repos\\WebApplication2\\WebApplication2\\obj\\",
+        "outputPath": "C:\\Users\\RAJA\\source\\repos\\DemoApps\\WebApplication2\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\RAJA\\AppData\\Roaming\\NuGet\\NuGet.Config",
